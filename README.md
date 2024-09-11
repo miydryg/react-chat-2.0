@@ -1,4 +1,4 @@
 
-npm i 
-########################################################################################################
- npm run start (run backend and frontend)
+ 1 npm i 
+
+ 2  npm run start (run backend and frontend)
