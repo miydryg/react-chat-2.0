@@ -1,0 +1,61 @@
+.Login {
+    display: flex;
+    // align-items: center;
+    // flex-direction: column;
+    // justify-items: center;
+     background-color: #586670;
+    height: 800px;
+    width: 1300px;
+    padding: 20px 0 40px 0;
+    
+  }
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1140px;
+    height: 800px;
+     background-color: #fff;
+    margin: 0 auto;
+    padding: 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .loginForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    width: 500px;
+    height: 500px;
+    background-color: #586670;
+    padding: 20px ;
+   
+
+  }
+
+  .formItems{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    padding: 10px ;
+  }
+
+  label{
+    padding: 5px;
+  }
+
+.genderCheck{
+  display: flex;
+  justify-content: center;
+}
+
+.male{
+  display: flex;
+}
+
+.famale{
+  display: flex;
+}
