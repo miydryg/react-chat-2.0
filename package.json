@@ -4,7 +4,7 @@
   "main": "server.js",
   "scripts": {
     "start": "concurrently \"npm run start:frontend\" \"npm run start:backend\"",
-    "start:frontend": "cd react-chat-frontend && npm run dev",
+    "start:frontend": "cd react-chat-frontend && npm i && npm run dev",
     "start:backend": "cd react-chat-backend && npm run start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
